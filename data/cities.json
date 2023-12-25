@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Vega de Espinareda",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-04T18:48:21.204Z",
+      "notes": "f",
+      "position": {
+        "lat": "42.70037926916781",
+        "lng": "-6.701660156250001"
+      },
+      "id": 73930388
+    },
+    {
+      "cityName": "Blazquez",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-04T18:58:11.690Z",
+      "notes": "r",
+      "position": {
+        "lat": "38.43207228557083",
+        "lng": "-5.47119140625"
+      },
+      "id": 73930391
+    },
+    {
+      "cityName": "Castrocontrigo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-10T11:53:35.073Z",
+      "notes": "",
+      "position": {
+        "lat": "42.21431700942886",
+        "lng": "-6.240234375"
+      },
+      "id": 73930392
+    },
+    {
+      "cityName": "Muniesa",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-10T11:53:39.169Z",
+      "notes": "",
+      "position": {
+        "lat": "41.132921499204755",
+        "lng": "-0.7250976562500001"
+      },
+      "id": 73930393
+    },
+    {
+      "cityName": "Zaragoza",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-16T16:07:16.665Z",
+      "notes": "",
+      "position": {
+        "lat": "41.69169561604368",
+        "lng": "-0.8094503652181828"
+      },
+      "id": 73930394
+    },
+    {
+      "cityName": "Lantaron",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-16T16:07:20.662Z",
+      "notes": "",
+      "position": {
+        "lat": "42.76579379027305",
+        "lng": "-2.9861864312969377"
+      },
+      "id": 73930395
+    },
+    {
+      "cityName": "Ponson-Dessus",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-11-16T16:09:57.847Z",
+      "notes": "",
+      "position": {
+        "lat": "43.310637601040085",
+        "lng": "-0.06168800338750114"
+      },
+      "id": 73930396
+    }
+  ]
+}
